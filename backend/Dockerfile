@@ -1,5 +1,4 @@
-FROM python:3.4.3-onbuild
-MAINTAINER Ivan Pedrazas "ipedrazas@gmail.com"
+FROM python:3.5-onbuild
 
 ENV DEBIAN_FRONTEND noninteractive
 
